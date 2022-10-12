@@ -5,3 +5,11 @@ curl --request GET \
   --output 'Nessus-10.3.0-debian9_amd64.deb'
 ```
 
+!installing nessus
+
+```
+sudo dpkg -i Nessus-10.3.0-debian9_amd64.deb         
+```
+
+
+

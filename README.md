@@ -14,11 +14,11 @@ Once you have the registration code and the Nessus install file has been downloa
 # Nessus Installation Lab!
 
 1. Change directory to wherever the Nessus install file is located (Default is usually /home/kali/Downloads)
-2. Type "dkpg -i ./ /Nessus-10.1.1-debian6_amd64.deb"  (Note the version number may be different than what is here)
+2. Type "dpkd -i ./ /Nessus-10.1.1-debian6_amd64.deb"  (Note the version number may be different than what is here)
 3. Once the install is complete start the nessus service by typing the following command:
                ```sudo systemctl start nessusd```
 
-4. Access Nessus via Firefox by going to https://localhost:8834Links to an external site.
+4. Access Nessus via Firefox by going to https://localhost:8834 Links to an external site.
 5. Accept the self-signed certificate warning
 6. Select a username, password and enter activation code (please make sure you have chosen the correct product version as well)
 7. Wait while Nessus compiles all the plugins (This may take a long time to complete, and it is normal)
