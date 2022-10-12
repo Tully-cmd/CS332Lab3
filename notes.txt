@@ -11,5 +11,9 @@ curl --request GET \
 sudo dpkg -i Nessus-10.3.0-debian9_amd64.deb         
 ```
 
+!running nessus
 
+```
+sudo systemctl start nessusd
+```
 
