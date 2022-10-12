@@ -11,9 +11,16 @@ curl --request GET \
 sudo dpkg -i Nessus-10.3.0-debian9_amd64.deb         
 ```
 
+<<<<<<< HEAD
 !running nessus
 
 ```
 sudo systemctl start nessusd
 ```
+=======
+!kali ip
+```172.16.0.17```
+!metasploitable ip
+```172.16.0.22
+>>>>>>> 5b786b8 (added ip's to notes)
 
