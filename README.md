@@ -7,7 +7,7 @@ Before attempting this lab, please complete the steps below:
 https://www.tenable.com/tenable-for-educationLinks to an external site.
 2. Download a copy of Nessus from https://www.tenable.com/downloads/nessusLinks to an external site. ( do this from the firefox browser in kali)
 
-Once you have the registration code and the Nessus install file has been downloaded, please proceed to the next stapes
+Once you have the registration code and the Nessus install file has been downloaded, please proceed to the next steps
 
  
 
