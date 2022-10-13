@@ -17,4 +17,4 @@ sudo systemctl start nessusd
  - kali ip
 ```172.16.0.17```
  - metasploitable ip
-```172.16.0.22
+```172.16.0.22```
