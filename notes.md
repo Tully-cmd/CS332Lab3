@@ -18,3 +18,9 @@ sudo systemctl start nessusd
 ```172.16.0.17```
  - metasploitable ip
 ```172.16.0.22```
+
+## recovering lost username for nessus
+
+navigate to /opt/nessus/sbin
+
+sudo ./nessuscli lsuser
